@@ -5,7 +5,7 @@ Under the cross-kernel driver framework, the Linux driver adaptation layer imple
 In your linux directory, clone this project
 
 ```shell
-cd `path to your kernel`/drivers/i2c/busses
+cd `path to your kernel`/drivers/gpio
 git clone git@github.com:happy-thw/gpio-dw-linux-adapter.git
 ```
 
